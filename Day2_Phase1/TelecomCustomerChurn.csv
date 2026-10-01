@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 588,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+=======
+customerID,Gender,SeniorCitizen,Partner,Dependents,Tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+>>>>>>> refs/remotes/origin/main
 7590-VHVEG,Female,0,Yes,No,1,No,No,DSL,No,Yes,No,No,No,No,Monthly,Yes,Manual,29.85,29.85,No
 5575-GNVDE,Male,0,No,No,34,Yes,No,DSL,Yes,No,Yes,No,No,No,One year,No,Manual,56.95,1889.5,No
 3668-QPYBK,Male,0,No,No,2,Yes,No,DSL,Yes,Yes,No,No,No,No,Monthly,Yes,Manual,53.85,108.15,Yes
@@ -3983,6 +3987,12 @@
 1200-TUZHR,Female,1,No,No,8,Yes,Yes,Fiber optic,No,No,No,No,No,Yes,Monthly,No,Manual,85.2,695.75,No
 9365-CSLBQ,Male,0,No,Yes,71,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Manual,24.35,1654.6,No
 1334-FJSVR,Male,0,No,No,1,No,No,DSL,No,No,No,No,No,No,Monthly,Yes,Manual,24.25,24.25,Yes
+<<<<<<< HEAD
+=======
+5884-FBCTL,Female,0,Yes,Yes,72,Yes,Yes,No,No,No,No,No,No,No,Two year,No,Bank transfer (automatic),25.1,1857.85,No
+7130-CTCUS,Male,1,Yes,No,16,Yes,No,DSL,Yes,Yes,No,No,No,No,Monthly,Yes,Bank transfer (automatic),54.55,825.1,No
+6242-FEGFD,Male,0,Yes,No,66,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,No,Two year,No,Manual,96.6,6424.25,No
+>>>>>>> refs/remotes/origin/main
 7625-XCQRH,Female,0,No,No,11,Yes,Yes,Fiber optic,No,No,No,No,No,No,Monthly,Yes,Manual,76.5,837.95,Yes
 6194-HBGQN,Male,0,No,No,51,Yes,Yes,DSL,Yes,Yes,Yes,Yes,Yes,No,One year,Yes,Credit card (automatic),81.15,4126.2,No
 7634-WSWDB,Female,0,No,Yes,8,No,No,DSL,Yes,No,No,No,No,Yes,Monthly,Yes,Manual,38.5,330.8,No
